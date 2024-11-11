@@ -31,7 +31,7 @@ I’m currently working on a range of exciting projects including:
 - **[LLM-Based Text-Based Game](https://github.com/Leander-Antony/BeyondLLM/tree/main/Text%20based%20Game%20using%20BeyondLLM):** Developing an interactive text-based game where users can explore and make choices guided by LLMs, offering a unique gameplay experience based on user thinking and decision-making.
 - **[IdeaEval Agent](https://github.com/Leander-Antony/BeyondLLM/tree/main/IdeaEval%20Agent):** IdeaEval Agent is an upcoming project focused on evaluating startup ideas and products through intelligent analysis. The system will assess market value, competitive landscape, and potential risks, providing actionable insights for entrepreneurs and businesses.
 
-Feel free to check out my [GitHub repositories]([https://github.com/Leander-Antony](https://github.com/Leander-Antony?tab=repositories)) for more details.
+Feel free to check out my [GitHub repositories](https://github.com/Leander-Antony?tab=repositories) for more details.
 
 ## ✨ Zoro - My Inspiration
 
