@@ -1,6 +1,9 @@
 # Hi there, I'm Leander! 👋
 
-![Header Image](https://media.licdn.com/dms/image/v2/D4E16AQFCVQH5zKMCEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1689421942903?e=1729123200&v=beta&t=CMeGec_uOU5dosSxO1Q7U7tBCNifBzJDlJt3ppoEbao)
+![Header Image](https://drive.google.com/uc?id=1UNxlXrfl-OSvh2TJ3zFRWGt_MHN4S9ZK)
+
+
+
 
 ## 🚀 About Me
 
