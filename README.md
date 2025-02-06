@@ -24,6 +24,12 @@ Feel free to reach out if you want to discuss projects or ideas!
 ![Leander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leander-Antony&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leander-Antony&layout=compact&theme=radical)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leander-Antony/Leander-Antony/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leander-Antony/Leander-Antony/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Leander-Antony/Leander-Antony/refs/heads/output/github-snake.svg" />
+</picture>
+
 ## 🏆 GitHub Trophies
 
 ![Leander's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Leander-Antony&theme=radical&no-bg=true&no-frame=true)
