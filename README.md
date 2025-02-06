@@ -1,6 +1,6 @@
 # Hi there, I'm Leander! 👋
 
-![Header Image](https://drive.google.com/uc?id=1UNxlXrfl-OSvh2TJ3zFRWGt_MHN4S9ZK)
+![Header Image](banner.png)
 
 ## 🚀 About Me
 
@@ -45,7 +45,7 @@ Feel free to check out my [GitHub repositories](https://github.com/Leander-Anton
 
 ## ✨ Zoro - My Inspiration
 
-![Zoro](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/one-piece-cliffhanger-zoro-new-sword-tease-1249050.jpg?q=70&fit=crop&w=1500&dpr=1)
+![Zoro](zoro.avif)
 
 *"To Face One Who Is Extraordinary, I Cannot Allow Myself To Be Ordinary."* – Roronoa Zoro
 
