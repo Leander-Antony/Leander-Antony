@@ -2,9 +2,6 @@
 
 ![Header Image](https://drive.google.com/uc?id=1UNxlXrfl-OSvh2TJ3zFRWGt_MHN4S9ZK)
 
-
-
-
 ## 🚀 About Me
 
 Hello! I'm **Leander Antony**, a **B.Tech student specializing in Artificial Intelligence and Data Science**. I’m passionate about solving real-world problems using data and technology. I enjoy working on projects that involve machine learning, data analysis, and building web applications. My goal is to create practical solutions that make a positive impact.
@@ -26,6 +23,10 @@ Feel free to reach out if you want to discuss projects or ideas!
 
 ![Leander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leander-Antony&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leander-Antony&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Leander's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Leander-Antony&theme=radical&no-bg=true&no-frame=true)
 
 ## 🎮 My Work
 
