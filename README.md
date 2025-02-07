@@ -45,7 +45,7 @@ Feel free to check out my [GitHub repositories](https://github.com/Leander-Anton
 
 ## ✨ Zoro - My Inspiration
 
-![Zoro](zoro.avif)
+<img src="zoro.avif" width="80%" height="auto" alt="Zoro">
 
 *"To Face One Who Is Extraordinary, I Cannot Allow Myself To Be Ordinary."* – Roronoa Zoro
 
