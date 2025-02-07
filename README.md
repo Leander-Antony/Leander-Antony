@@ -19,8 +19,12 @@ Feel free to reach out if you want to discuss projects or ideas!
 
 ## 📈 GitHub Stats
 
-| ![Leander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leander-Antony&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leander-Antony&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | [![GitHub Streak](https://github-readme-streak-stats-sigma-nine.vercel.app?user=Leander-Antony&theme=transparent&hide_border=true&ring=00EB3C&dates=00EB0D&fire=EB1818)](https://git.io/streak-stats) |
-| --- | --- | --- |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leander-Antony&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="350px" height="auto"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leander-Antony&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="250px"/>
+  <img src="https://github-readme-streak-stats-sigma-nine.vercel.app?user=Leander-Antony&theme=transparent&hide_border=true&ring=00EB3C&dates=00EB0D&fire=EB1818" width="350px"/>
+</div>
+
 
 
 
