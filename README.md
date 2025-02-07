@@ -20,6 +20,7 @@ Feel free to reach out if you want to discuss projects or ideas!
 ## 📈 GitHub Stats
 
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leander-Antony&theme=transparent" alt="GitHub Profile Summary">
   <img src="https://github-readme-stats.vercel.app/api?username=Leander-Antony&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="350px" height="auto"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leander-Antony&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="250px"/>
   <img src="https://github-readme-streak-stats-sigma-nine.vercel.app?user=Leander-Antony&theme=transparent&hide_border=true&ring=00EB3C&dates=00EB0D&fire=EB1818" width="350px"/>
