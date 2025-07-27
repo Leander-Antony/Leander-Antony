@@ -55,7 +55,6 @@ Feel free to check out my [GitHub repositories](https://github.com/Leander-Anton
 
 *"To Face One Who Is Extraordinary, I Cannot Allow Myself To Be Ordinary."* – Roronoa Zoro
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
 
 ## 🌐 Connect with Me
