@@ -87,11 +87,10 @@ Hello! I'm a **B.Tech student specializing in Artificial Intelligence and Data S
 ---
 
 ## 📈 GitHub Analytics
-
 <div align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-streak-stats-sigma-nine.vercel.app?user=Leander-Antony&theme=tokyonight&hide_border=true&ring=00EB3C&dates=00EB0D&fire=EB1818" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-streak-stats-sigma-nine.vercel.app?user=Leander-Antony&theme=github_dark&hide_border=true&ring=00EB3C&dates=00EB0D&fire=EB1818" alt="GitHub Streak" width="100%"/>
       </td>
 
   </table>
