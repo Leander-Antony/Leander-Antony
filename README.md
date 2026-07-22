@@ -88,14 +88,15 @@ Hello! I'm a **B.Tech student specializing in Artificial Intelligence and Data S
 
 ## GitHub Analytics
 <div align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats-sigma-nine.vercel.app?user=Leander-Antony&theme=github_dark&hide_border=true&ring=00EB3C&dates=00EB0D&fire=EB1818" alt="GitHub Streak" width="100%"/>
-      </td>
+  <img src="https://github-readme-streak-stats-sigma-nine.vercel.app?user=Leander-Antony&theme=github_dark&hide_border=true&ring=00EB3C&dates=00EB0D&fire=EB1818" alt="GitHub Streak" width="100%"/>
 
-  </table>
+  <br/><br/>
 
-  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leander-Antony&bg_color=0d1117&color=c9d1d9&line=00eb3c&point=eb1818&title_color=58a6ff&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  </a>
+
+  <br/><br/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leander-Antony/Leander-Antony/refs/heads/output/github-snake-dark.svg" />
